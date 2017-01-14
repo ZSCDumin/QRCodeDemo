@@ -1,0 +1,1 @@
+include ':qrcodecore', ':zxing', ':zbar', ':zxingdemo', ':zbardemo'
